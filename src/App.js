@@ -9,8 +9,7 @@ import Navbar from './components/navbar/Navbar';
 import './App.css';
 const App=()=>{
     return(<div>
-        <h1>GTP-3</h1>
-        <div className='App'>
+            <div className='App'>
             <div className='gradient_bg'>
                 <Navbar/>
                 <Header/>
